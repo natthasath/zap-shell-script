@@ -5,3 +5,7 @@ Zed Attack Proxy (ZAP) is an open-source web application security scanner mainta
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
+
+### ✅ Requirements
+
+- Docker
